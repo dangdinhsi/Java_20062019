@@ -33,7 +33,7 @@
     if(errors.size() > 0){
 %>
 <div class="error">
-    Vui lòng sửa các lỗi bên dưới và thử lại.
+    Bạn gặp lỗi, vui lòng sửa và thử lại !!!!
 </div>
 <%
     }
